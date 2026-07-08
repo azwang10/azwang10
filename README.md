@@ -1,11 +1,15 @@
-##Hello! I'm Albert 👋
+## Hello! I'm Albert 👋
 I recently finished my PhD mapping 3D serotonin diffusion during behavior within the model neuroscience worm *C. elegans*. I have extensive experience at both the wet- and dry-lab from grad school and really enjoy collecting and analyzing imaging data. I’m excited by opportunities to tackle new analysis challenges on large-scale data and to continue expanding my data processing skill set!
 
 ## Grad school work 🔬🪱
+* I was maybe what you could consider a “full-stack biologist” during my PhD and worked on all aspects of my project including: cloning and breeding new nematode strains expressing a genetically encoded fluorescent biosensor for serotonin, optimizing imaging protocols, recording my own datasets, and devising and implementing a novel analysis workflow for fixing deformations caused by movement during tracking confocal imaging.
+* This pipeline, animated below, first extracts the body spline of the worm to inform a new coordinate transform for each frame to coarsely fix large deformations from body bending during movement. The pipeline then performs finer image registration to further align each image stack to a chosen reference stack from each recording.
 
+<img src="schematic.png" alt="schematic" width="100%">
+
+<img src="synced.gif" alt="synced" width="100%">
 
 ## Computational skills 💻
-
 **Languages:** [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](http://python.org) [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 
 **Image analysis:** [![torchvision](https://img.shields.io/badge/-torchvision-EE4C2C?logo=pytorch&logoColor=white)](https://docs.pytorch.org/vision/stable/index.html) [![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)](http://keras.io) [![elastix](https://img.shields.io/badge/-elastix-FFFAD4?logoColor=white)](http://elastix.dev) [![scikit-image](https://img.shields.io/badge/-scikit--image-D1521A?&logoColor=white)](http://scikit-image.org) [![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)](http://scipy.org) [![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white)](http://ffmpeg.org) [![.nd2](https://img.shields.io/badge/-.nd2-FFE100?logo=nikon&logoColor=white)](https://open-science-tools.github.io/nd2reader/index.html)
@@ -32,5 +36,5 @@ I recently finished my PhD mapping 3D serotonin diffusion during behavior within
     <td width="33%" style="padding:0;"><img src="images/22-south-pointe/000042070020_0.jpg" width="100%" style="display:block"></td>
   </tr>
 </table>
----
+
 *README inspired by [MadsLorentzen's page](https://github.com/MadsLorentzen)*
