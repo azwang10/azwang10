@@ -15,21 +15,22 @@ I recently finished my PhD mapping 3D serotonin diffusion during behavior within
 **Other:** [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](http://scikit-learn.org) [![Slurm](https://img.shields.io/badge/-Slurm-00A5E2?logoColor=white)](https://slurm.schedmd.com/overview.html) [![NetworkX](https://img.shields.io/badge/-NetworkX-FF7427?logoColor=white)](http://networkx.org) [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](http://git-scm.com) [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)](http://latex-project.org)
 
 ## Some personal pics 📷
-<table width="100%">
-	<tr>
-		<td width="33%"><img src="images/23-biscayne/000042070015_8.jpg" width="100%"></td>
-		<td width="33%"><img src="images/47-alabama-hills2/1787_AA013_0.jpg" width="100%"></td>
-		<td width="33%"><img src="images/46-korean-bell/alber77-041_7.jpg" width="100%"></td>
-	</tr>
-	<tr>
-		<td width="33%"><img src="images/5-houghtons/000066660030_4.png" width="100%"></td>
-		<td width="33%"><img src="images/18-westwood/alber77-033_1.jpg" width="100%"></td>
-		<td width="33%"><img src="images/24-burlington/000042070030_0.jpg" width="100%"></td>
-	</tr>
-	<tr>
-		<td width="33%"><img src="images/13-race-point2/000066660027_2.jpg" width="100%"></td>
-		<td width="33%"><img src="images/3-fioli/000066660008_5.png" width="100%"></td>
-		<td width="33%"><img src="images/22-south-pointe/000042070020_0.jpg" width="100%"></td>
-	</tr>
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+  <tr>
+    <td width="33%" style="padding:0;"><img src="images/23-biscayne/000042070015_8.jpg" width="100%" style="display:block"></td>
+    <td width="33%" style="padding:0;"><img src="images/47-alabama-hills2/1787_AA013_0.jpg" width="100%" style="display:block"></td>
+    <td width="33%" style="padding:0;"><img src="images/46-korean-bell/alber77-041_7.jpg" width="100%" style="display:block"></td>
+  </tr>
+  <tr>
+    <td width="33%" style="padding:0;"><img src="images/5-houghtons/000066660030_4.png" width="100%" style="display:block"></td>
+    <td width="33%" style="padding:0;"><img src="images/18-westwood/alber77-033_1.jpg" width="100%" style="display:block"></td>
+    <td width="33%" style="padding:0;"><img src="images/24-burlington/000042070030_0.jpg" width="100%" style="display:block"></td>
+  </tr>
+  <tr>
+    <td width="33%" style="padding:0;"><img src="images/13-race-point2/000066660027_2.jpg" width="100%" style="display:block"></td>
+    <td width="33%" style="padding:0;"><img src="images/3-fioli/000066660008_5.png" width="100%" style="display:block"></td>
+    <td width="33%" style="padding:0;"><img src="images/22-south-pointe/000042070020_0.jpg" width="100%" style="display:block"></td>
+  </tr>
 </table>
+---
 *README inspired by [MadsLorentzen's page](https://github.com/MadsLorentzen)*
